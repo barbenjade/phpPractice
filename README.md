@@ -1,2 +1,2 @@
 ﻿# phpPractice
- Store php logic practice files here for CodeSignal site challenges.
+ Store php logic practice files here for CodeSignal site challenges
